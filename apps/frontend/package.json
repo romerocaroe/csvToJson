@@ -1,0 +1,14 @@
+{
+  "name": "lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Carolina Romero",
+  "license": "ISC",
+  "dependencies": {
+    "@dracul/media-frontend": "^1.10.0"
+  }
+}
